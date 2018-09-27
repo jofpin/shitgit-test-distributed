@@ -40,3 +40,5 @@ Tim: is a test 8 - shitgit
 Cristian: is a test 9 - shitgit
 
 Ty Strong: is a test 10 - shitgit
+
+Addy Osmani: is a test 1 - shitgit
