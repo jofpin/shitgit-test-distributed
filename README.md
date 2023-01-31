@@ -190,3 +190,5 @@ Michael: is direct test 3 - shitgit
 Orlando: is a test 4 - shitgit
 
 Jacobo: is a test 5 - shitgit
+
+Sindre: is a test 6 - shitgit
